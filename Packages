@@ -1,0 +1,414 @@
+Package: byg.iosios.net.axon.rootless
+Version: 2.5.3.1
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./Axon美化通知_2.5.3.1_iphoneos-arm64.deb
+Size: 156272
+MD5sum: 46cae3f3b25feac983726d3fbb0f6604
+SHA1: dc5ff3c7b53c22655911bf6ede93234a523a8bcb
+SHA256: da202d238ee3290869597e9155995681c1e03b0f5c0d4666b0f4df0a6719e4e3
+Section: 系统增强
+Description: 锁屏通知美化。妖刀修复更新支持iOS 16、iOS 17，效果很独特，具体可以看截图介绍！搬运工源这么多年了一直免费，感谢你的支持！
+Author: Nepeta & Baw Appie & daodao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Axon美化通知
+Sponsor: 搬运工
+
+Package: byg.iosios.net.cornbars
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis (>= 1.2)
+Conflicts: com.wrp1002.cornbar
+Filename: ./CornBar玉米小白条-Rootless_1.1.0_iphoneos-arm64.deb
+Size: 111120
+MD5sum: c96c0b2772930dee3ea0d494734e596a
+SHA1: 68a84ace6cd5f3fe5af69475cf2352409b5c5ebb
+SHA256: 46431c028ec805e9bc26bf197b1e027ab940370e65b0a63c8da8cec8a9637ab1
+Section: 杂七杂八
+Description: 把你的HomeBar小白条变成玉米！插件效果如截图所示！还可以更改其它自定义图片，一款花里胡哨的小插件，搬运工源，永久免费更新，欢迎使用！
+Author: Wes
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: CornBar玉米小白条-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.eneko
+Version: 1.4-5
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 644
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.eneko
+Filename: ./Eneko视频动态壁纸_1.4-5_iphoneos-arm64.deb
+Size: 210924
+MD5sum: a482610e89657f3c20995a408ce25ce6
+SHA1: 2f7ca00676f555a590244dba1afb15dc3c749c75
+SHA256: 8f510d94e03a7ef3dfb42bdd210fe2b662c5bb5d07a9a59f419eeaeaa6936109
+Section: 系统增强
+Description: Eneko视频壁纸插件，非常的酷炫！装x神器！搬运工源水友SINI根据开源更好的适配新版本！全中文操作！下载插件之后，去系统设置里开启，选择你需要的视频壁纸，然后点右上角妙手回春注销生效！提醒一下，你用了和灵动岛相关的插件，或者分屏什么的，都有可能导致视频壁纸失效，请自己排查！搬运工源，永久免费更新，欢迎大家多多推广，更新才快！一个抵一万个！
+Author: Traurige & SINI
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Eneko视频动态壁纸
+Sponsor: 搬运工
+
+Package: byg.iosios.net.filzacrack-rootless
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 120
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./Filza 破解插件-Rootless_1.1-9_iphoneos-arm64.deb
+Size: 28872
+MD5sum: fbb11a0a4bc9de0eeafb3be7906d3901
+SHA1: 269ce862fefeb1fa493c547e909e7f73288a562d
+SHA256: 670a6cf23f4780d4f4f0d3f20c4bae7d4527a5f94eddc2cfb5a64b5f85bef546
+Section: 软件破解
+Description: Filza unlock full functionality, the main program please install in the official source Filza破解插件，请自行安装filza文件管理器，本插件只是破解插件！
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Filza 破解插件-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.floatingdockxvi
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 812
+Depends: preferenceloader
+Filename: ./FloatingDock悬浮Dock-Rootless_2.3_iphoneos-arm64.deb
+Size: 398036
+MD5sum: 1d2371c2e0585af2f73e9bea3a3ddd45
+SHA1: c19a100537f888a909df3fcc9d64f7059f02d90e
+SHA256: 746135280f34b5236b1bfaba8e20ed459cf0b20eaf823082060afc1744258821
+Section: 杂七杂八
+Description: Floating Dock on iOS 16  让你的Dock栏和iPad一样悬浮起来，并且桌面底板加好几个图标，超过官方限制的4个!本插件仅是官方加搬运工源汉化，无需再单独安装汉化包，毕竟能省一个插件是一个嘛！搬运工源，永久免费，搬你所想！
+Author: Ethan Whited
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: FloatingDock悬浮Dock-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.freepip
+Version: 0.0.6-2
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 440
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./FreePIP画中画增强_0.0.6-2_iphoneos-arm64.deb
+Size: 44088
+MD5sum: 90c11b415c1a5ebd96557998c258e4ff
+SHA1: d78fd6067ef61c37b313e98b0f6dce9bf9c76b8d
+SHA256: 61702626e5699a1c2609694e9d93e46760709b0f552929afb999536f05232135
+Section: 系统增强
+Description: 系统画中画功能增强，基于开源，优化了一些代码，改进了一些细节，长按画中画窗口切换模式，灰色边框为自由模式(即随意放大缩小移动位置)，橙色边框为固定模式(即原生模式)，非常的好用，搬运工源，万古长青！
+Author: Soh Satoh,SINI
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: FreePIP画中画增强
+Sponsor: 搬运工
+
+Package: byg.iosios.net.griddy
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 236
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./Griddy图标随意摆_1.2.3_iphoneos-arm64.deb
+Size: 17036
+MD5sum: 2b26e588d664722e62eb20aa09d47d5f
+SHA1: 22b6c0440c4490ca53f30cf2d11500c45caa822d
+SHA256: fd445fdef98b9de585c79ba1f151e06f961b79cae07569db1f6e3c44fd15b8c4
+Section: 杂七杂八
+Description: 小伙们期待的图标随意摆的插件终于来了，不少小伙们一直问机车主无根有没有这个插件，今天它来了。原价1.49美元，有能力的请购买正版支持作者！插件安装注销即可生效，暂时无设置项！支持主屏幕、dock和文件夹中的自定义布局、支持任何大小的图标或小部件！搬运工源，真的用心在做免费！
+Author: mikifp
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Griddy图标随意摆
+Sponsor: 搬运工
+
+Package: byg.iosios.net.kaiguang
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate
+Filename: ./开关按扭-写轮眼(蓝）_1.0.0_iphoneos-arm64.deb
+Size: 43604
+MD5sum: b4820db81a8cc42f1f5caa224074c936
+SHA1: 570d25b9929f935936072b275e32d486d9db6d22
+SHA256: e6378337e1627023ff6d738eec95e3bb87772992aa809a32cd9a662bea1df638
+Section: 杂七杂八
+Description: 这是一款全新的开关主题，以半透的风格绘制的三勾玉写轮眼为核心设计，开启时勾玉缓缓旋转，带来极致是丝滑体验。搬运工源，搬你所想！
+Author: 白衣
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 开关按扭-写轮眼(蓝）
+Sponsor: 搬运工
+
+Package: byg.iosios.net.limneoscrack-rootless
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./Limneos 插件破解-Rootless_1.1-3_iphoneos-arm64.deb
+Size: 10604
+MD5sum: 7105fb51ce8ba492beda86507e934efe
+SHA1: cc789c0383447135986d58084cf8b65cab1906ea
+SHA256: 7d30ec374610a7e5357e438c8ab414880838b2b3a39da043d2e4108ea1cdaefb
+Section: 插件依赖
+Description: 解锁Limneos所有插件全功能通话录音破解、NFC破解等等，可以下载官方插件，再安装本插件进行破解！官方源http://limneos.net/repo
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Limneos 插件破解-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.lstimeseconds16
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 432
+Filename: ./LSTimeSeconds时间显秒-Rootless_0.3_iphoneos-arm64.deb
+Size: 38268
+MD5sum: 32c9eb9a151789a6a4992bc6602afc4a
+SHA1: f7f16849dde8ff7a2b82facf1e3fe0fb0081c68a
+SHA256: 68d662331269308544881313b90f6279a345671a9eccb63d766891385279d59d
+Section: 杂七杂八
+Description: Adds seconds to lockscreen time.这是一款让锁屏时间显示秒数的插件，还不错，效果看截图介绍，搬运工源已汉化！
+Author: b4db1r3
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: LSTimeSeconds时间显秒-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.mobilemeadowreborn
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 3848
+Depends: dev.theos.orion14, firmware (>= 14.0)
+Filename: ./Dock鲜花草地_1.0.2_iphoneos-arm64.deb
+Size: 2402552
+MD5sum: c22211b61e79c5de36838f22f46ff11d
+SHA1: b1ee7de634ca494ac99a3fbf71af87931c4014a1
+SHA256: 20efa4e8d4f5d818f59bea04c52a96caedfe4c951ef9edae32e14cffa45420aa
+Section: 杂七杂八
+Description: 这款插件，它将你的手机Dock栏变成一片宁静的草地，你的应用程序上盛开着鲜艳的花朵，优雅的鸟儿在你的屏幕上自由翱翔。让大自然接管你的数字世界，为每一次点击和滑动带来宁静和美丽的感觉。效果看截图！
+Author: pkgFiles
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Dock鲜花草地
+Sponsor: 搬运工
+
+Package: byg.iosios.net.noredirects
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 832
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Conflicts: com.82flex.noredirect
+Filename: ./NoRedirect禁止跳转_2.1_iphoneos-arm64.deb
+Size: 90636
+MD5sum: 39958d7c1d260c123ae5ea2272aee8b5
+SHA1: 58c041390741e47a05c04cb6686db1fbe9adfedc
+SHA256: 5c3dcb3223647abc35fe7ab2575970c531b54441e0b21998ecad8fc0cc3a3cc3
+Section: 杂七杂八
+Description: 阻止指定的应用重定向到 App Store、Safari 或其他应用。意思就是防止打开这个软件弹出了广告突然让你去下载另一个应用，或者打开浏览器链接，一款还不错的小插件，需要的用户可以试试！
+Author: Lessica
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: NoRedirect禁止跳转
+Sponsor: 搬运工
+
+Package: byg.iosios.net.onesettings
+Version: 2.2.1
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 1084
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
+Filename: ./OneSettings系统设置美化_2.2.1_iphoneos-arm64.deb
+Size: 270260
+MD5sum: d12716a91750c200dc8b425eb9c0b906
+SHA1: 2fd3161e13d1c2970ad97b32634703c5d6e511a8
+SHA256: 2c03bcb406cc13828506171ef38af1d366e7359b53b9b131c813eedacd06ca19
+Section: 杂七杂八
+Description: OneSettings为设置应用程序带来了全面的个性化界面定制功能，用户可以通过自定义颜色、背景图片和单元格尺寸等来实现独特的设置界面。对于许多iPhone用户而言，设置应用程序是日常使用中不可或缺的一部分，无论是用于调整网络设置、启用/禁用特定功能，还是仅查看设备硬件和软件信息。对于越狱用户来说，设置应用程序更是访问众多插件自定义选项的必经之路。然而，长期以来，设置应用程序的界面设计并未有显著改变，依旧保持着原有的简洁风格。OneSettings，这款由iOS开发人员Nightwind最新推出的越狱插件，旨在为用户提供更加多样化的设置应用程序体验。
+Author: Nightwind
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: OneSettings系统设置美化
+Sponsor: 搬运工
+
+Package: byg.iosios.net.powercuff
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 176
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./Powercuff省电插件_1.1_iphoneos-arm64.deb
+Size: 13732
+MD5sum: 757725fb52d59c1da16073ba16375686
+SHA1: afc093a132e7deeea3eeca90d0ff9f351911eb23
+SHA256: cc33aa9bf065d55d7d34d76b66a5e4fb41e64ffb1128b6ff8ad73dc85fa4f777
+Section: 杂七杂八
+Description: Select from additional low power device states省电插件，请看插件介绍截图，至于有没有效，请自测，我也不敢乱说，怕被打！搬运工源一直在免费为大家服务，请多多支持！
+Author: Ryan Petrich
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Powercuff省电插件
+Sponsor: 搬运工
+
+Package: byg.iosios.net.visibleisland
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: ./VisibleIsland开启灵动岛-Rootless_2.0_iphoneos-arm64.deb
+Size: 28748
+MD5sum: c3fcde2de69611100f941e8655034da2
+SHA1: 9ca1b131b45277eced51b622e3758ef96e07ba93
+SHA256: 2c974ef2c8fb8ad40aca08b1d230582bbedd2f507411c137f4364a32c5b32e45
+Section: 系统增强
+Description: Enable, fix, and customize the Dynamic Island on older devices.VisibleIsland  是一款为老设备但是是iOS16系统的开启灵动岛的插件。主要特点：一键开启灵动岛，免费，简单。支持自定义灵动岛位置。支持自定义通知位置。支持自定义灵动岛透明度和颜色。支持自定义灵动岛比例。VisibleIsland 仅仅支持 iOS 16.0 - 16.6.1 系统。iOS 15 及更低版本系统，请勿安装！请勿安装！请勿安装！原生就有灵动岛的设备，请勿安装！搬运工源已完整汉化，享受吧！
+Author: ethxnn88
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: VisibleIsland开启灵动岛-Rootless
+Sponsor: 搬运工
+
+Package: ch.xxtou.hudapp.jb
+Version: 2.0-13
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 640
+Depends: firmware (>= 14.0)
+Filename: ./TrollSpeed JB_2.0-13_iphoneos-arm64.deb
+Size: 163544
+MD5sum: 278add00cbe3fda667d78d2ff3a55fd7
+SHA1: 208eba4a2bb701878d2e12abef13f680471301cb
+SHA256: 0c376cc98a52d9bae8bb3651306cddbadd96a2e57654866d9390a06a683a4b09
+Section: Tweaks
+Description: Troll your speed, but jailbroken.
+Author: Lessica <82flex@gmail.com>
+Name: TrollSpeed JB
+
+Package: cn.octoforce.copyvault
+Version: 1.9.0
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./CopyVault(激活码版)_1.9.0_iphoneos-arm64.deb
+Size: 1671996
+MD5sum: caa2bcfb72017aebe1fb6fa104be0eda
+SHA1: 5a53871bfcb59634c056c177999aa4504d7af79c
+SHA256: be37abfa7e25fff982fb17d393f37b97ab2ef8d50dc1c0c509d0fdbed760e1d9
+Section: 嗨-付费
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: cn.octoforce.squidextender
+Version: 3.7.4
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 9988
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./SquidExtender(激活码版)_3.7.4_iphoneos-arm64.deb
+Size: 2286476
+MD5sum: 00312107debc2816e53b85e926a02427
+SHA1: 035fe2ba146c5e1ca86b7852a7207bdb8613dbdb
+SHA256: 003293cac4a2939cf0b4c704acee9aac5dbe2e77a128df9dba7aefb150ce01bd
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Name: SquidExtender(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
+Package: cn.octoforce.squidgesturepro
+Version: 2.7.6-1
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 6620
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: ./SquidGesturePro(激活码)_2.7.6-1_iphoneos-arm64.deb
+Size: 1767756
+MD5sum: 44b43c676f66ac1bba153696bbab9948
+SHA1: cee80a1e71e65dd0161d37b752ddda549f02433a
+SHA256: 937e02c56f755e041ac414de4cbdec40d877c12362a0998ed1418e62077750f0
+Section: Tweaks
+Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
+Author: SquidForce, Backup
+Name: SquidGesturePro(激活码)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
+
+Package: com.axs.jikan
+Version: 2.2-1+debug
+Architecture: iphoneos-arm64
+Maintainer: waruhachi
+Installed-Size: 528
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./Jikan 锁屏显示充电剩余时间_2.2-1+debug_iphoneos-arm64.deb
+Size: 48284
+MD5sum: 1b466c34d27adf71ff94eae391aea166
+SHA1: 786fdc87d349c24b84dcfbc8d4a246b559f003be
+SHA256: 902cf71b8f7122565cd9dc506c18b08b9728f90c3894d2cc2511429c5d4a4ff2
+Section: Tweaks
+Description: Show estimate time left to full charge on your lock screen
+Author: waruhachi
+Icon: https://axs66.github.io/pro/icon/jikan.png
+Name: Jikan 锁屏显示充电剩余时间
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/jikan/js.json
+
+Package: com.axs.squidforce
+Version: 1.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: BVN
+Installed-Size: 328
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./SquidForce VIP_1.0.1-1_iphoneos-arm64.deb
+Size: 38156
+MD5sum: 4693104b38d52739cd882f5111331275
+SHA1: b0fd15980ae1e17438210305b1a1e6aad48a268b
+SHA256: bab0ea87348b8703ba41a6ff1a62ef5521e17aaf9fa4ed3d871ef7538b336692
+Section: 破解插件
+Description: 乌贼三件套(squidextender，squidgesturepro，copyvault）通杀插件，安装即可生效。
+Author: BVN
+Icon: https://axs66.github.io/pro/icon/squidforce.png
+Name: SquidForce VIP
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/squidforce/js.json
+
+Package: com.congcq.hynisloader
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: congcq
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./HynisLoader_1.4.3_iphoneos-arm64.deb
+Size: 14096
+MD5sum: bca98ca05ffa10aa41cbfb0fe2b5d3cc
+SHA1: 753198eb7e4e18eed7b7f729bdf1f1ade7f0a9e3
+SHA256: a680c6449781552c828544fa2e39d442403436e0ce304c676f35a9e0aa740e47
+Section: Tweaks
+Description: Minecraft: Bedrock Edition tweak for iOS device that allow load RenderDragon Shader from Global Resource Packs.
+Author: congcq
+Name: HynisLoader
+
+Package: com.cydiabc.copylog-rootless
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: TomT000
+Installed-Size: 2240
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./CopyLog剪切板管理器-Rootless_1.7.1_iphoneos-arm64.deb
+Size: 1041940
+MD5sum: 8fdca313be14471c215606db6c899ee3
+SHA1: 818eb4b112098903f252ef16957802b70a4dc1b6
+SHA256: 65e937622a7e733f53749328e1421c43a657ca75811ed9b64214af66c6e50c1b
+Section: 无根插件
+Description: CopyLog是一款功能强大的 iOS 剪贴板历史管理器，它易于使用，可在 iPhone 和 iPad 上运行并可帮助您跟踪您在设备上复制的内容，具体功能 参见浏览截图
+A12: 1
+Author: TomT000
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Icon2: 16.png
+Name: CopyLog剪切板管理器-Rootless
+Sponsor: Ai-小苹果™
+
